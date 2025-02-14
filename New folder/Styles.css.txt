@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f8f8;
+  text-align: center;
+}
+
+header {
+  background: #0033cc;
+  color: white;
+  padding: 20px;
+  font-size: 24px;
+}
+
+main {
+  padding: 20px;
+}
+
+h2 {
+  color: #0033cc;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+ul li {
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+.contact,
+.info {
+  margin: 20px 0;
+}
+
+.contact p,
+.contact a {
+  font-size: 18px;
+  color: black;
+  text-decoration: none;
+}
+
+.qr {
+  width: 150px;
+  margin: 10px 0;
+}
+
+.flyer img {
+  max-width: 90%;
+  border-radius: 10px;
+}
+
+footer {
+  background: #0033cc;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
